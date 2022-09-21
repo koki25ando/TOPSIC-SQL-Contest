@@ -4,6 +4,6 @@
 
 # History
 
-+ [練習用コンテスト](https://topsic-contest.jp/contests/practice): 2022/09/26
-+ [第1回 SQLコンテスト](https://topsic-contest.jp/contests/contest001): 2022/09/xx
-+ [第2回 SQLコンテスト](https://topsic-contest.jp/contests/contest002): 2022/09/xx
++ [練習用コンテスト](https://topsic-contest.jp/contests/practice): 2022/06/08
++ [第1回 SQLコンテスト](https://topsic-contest.jp/contests/contest001): 2022/07/20
++ [第2回 SQLコンテスト](https://topsic-contest.jp/contests/contest002): 2022/09/21
