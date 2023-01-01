@@ -1,4 +1,4 @@
--- https://topsic-contest.jp/contests/contest00x/problems/contest00x-4
+-- https://topsic-contest.jp/contests/contest00x/problems/contest003-4
 
 select
     *

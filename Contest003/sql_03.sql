@@ -1,4 +1,4 @@
--- https://topsic-contest.jp/contests/contest00x/problems/contest00x-3
+-- https://topsic-contest.jp/contests/contest00x/problems/contest003-3
 
 with base as(
     select
